@@ -9,7 +9,7 @@ import praktikumpbo.crudmahasiswasederhana.models.Mahasiswa;
 import java.util.List;
 
 /**
- *
+ *Andika Prayoga Siswono_21103012
  * @author andik
  */
 public interface MahasiswaInterface {

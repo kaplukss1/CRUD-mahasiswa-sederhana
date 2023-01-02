@@ -5,7 +5,7 @@
 package praktikumpbo.crudmahasiswasederhana.models;
 
 /**
- *
+ *Andika Prayoga Siswono_21103012
  * @author andik
  */
 public class Mahasiswa {

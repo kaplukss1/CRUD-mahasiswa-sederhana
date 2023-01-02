@@ -13,7 +13,7 @@ import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
 /**
- *
+ *Andika Prayoga Siswono_21103012
  * @author andik
  */
 public class connectionHelper {
@@ -37,10 +37,12 @@ public class connectionHelper {
                         username,
                         pass);
                 st = (Statement) connect.createStatement();
-                JOptionPane.showMessageDialog(null, "Terkoneksi");
+                JOptionPane.showMessageDialog(
+                        null, "Terkoneksi");
                 System.out.println("Koneksi berhasil.");
             } catch (ClassNotFoundException | SQLException e) {
-                JOptionPane.showMessageDialog(null, "Tidak Terkoneksi");
+                JOptionPane.showMessageDialog(null, 
+                        "Tidak Terkoneksi");
                 System.out.println("Koneksi berhasil.");
             }
         }

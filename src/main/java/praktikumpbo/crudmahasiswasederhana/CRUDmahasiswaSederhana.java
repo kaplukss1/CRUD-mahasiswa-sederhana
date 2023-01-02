@@ -11,7 +11,7 @@ import javax.swing.SwingUtilities;
 import praktikumpbo.crudmahasiswasederhana.db.connectionHelper;
 
 /**
- *
+ *Andika Prayoga Siswono_21103012
  * @author andik
  */
 public class CRUDmahasiswaSederhana {

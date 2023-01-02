@@ -15,7 +15,7 @@ import praktikumpbo.crudmahasiswasederhana.db.connectionHelper;
 import praktikumpbo.crudmahasiswasederhana.models.Mahasiswa;
 
 /**
- *
+ *Andika Prayoga Siswono_21103012
  * @author andik
  */
 public class MahasiswaController implements MahasiswaInterface{
